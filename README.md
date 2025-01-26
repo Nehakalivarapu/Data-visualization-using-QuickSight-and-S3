@@ -10,10 +10,10 @@ Dataset Files: Download the provided dataset files: listeners.csv and listeners.
 # Key Steps
 Let's embark on the journey of unlocking data insights with AWS QuickSight and Amazon S3. Follow these key steps to get started:
 
- 1. Data Source:
+ 1. # Data Source:
 Begin by obtaining your dataset. For instance, you can use Spotify data on artists and listeners, which is readily available on platforms like Kaggle.
 
- 2. Creating an S3 Bucket and Uploading Data:
+ 2. # Creating an S3 Bucket and Uploading Data:
 Set up an S3 bucket on AWS, upload your dataset files (listeners.csv and listeners.json), and configure the manifest file.
 
  3. Setting up AWS QuickSight:
